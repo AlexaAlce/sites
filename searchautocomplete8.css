@@ -790,7 +790,7 @@ body .ui-tooltip {
 }
 .ui-widget-content {
 	border: 1px solid rgba(100,100,100,0.5);
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.95);
 	color: rgba(220,20,60, 0.5);
 }
 .ui-widget-content a {
