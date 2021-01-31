@@ -789,7 +789,7 @@ body .ui-tooltip {
 	font-size: 1em;
 }
 .ui-widget-content {
-	border: 1px solid #dc143c;
+	border: 1px solid rgba(100,100,100, 0,5);
 	background: rgba(100,100,100, 0,5)
 	color: rgba(220,20,60, 0,5);
 }
@@ -1176,4 +1176,8 @@ body .ui-tooltip {
 
 .ui-menu-item-wrapper:hover {
     opacity: 1;
+}
+
+li.ui-menu-item {
+    border: none;
 }
